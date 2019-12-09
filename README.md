@@ -30,3 +30,5 @@ And that’s how to use ping at its most basic. Of course, like most commands, t
 ## Usage
 
 This program eliminates typing the word "ping" on the command prompt. Hint: store panel's IP address in a document and read the document using a File Reader program. Instead of an IP address input, just input the name of the panel and it will ping it. 
+
+## This program runs in Java code.
