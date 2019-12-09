@@ -26,3 +26,7 @@ And in the next image, we’re pinging the router on our local network using its
 When the ping tool does not get a response from whatever devices you’re pinging, it lets you know that, too.
 
 And that’s how to use ping at its most basic. Of course, like most commands, there are some advanced switches you can use to make it behave a bit differently. For example, you can have it keep pinging a destination until you stop the command, specify the number of times you want it to ping, set how often it should ping, and more. But unless you’re doing some very specific types of troubleshooting, you won’t need to worry much about those advanced switches.
+
+## Usage
+
+This program eliminates typing the word "ping" on the command prompt. Hint: store panel's IP address in a document and read the document using a File Reader program. Instead of an IP address input, just input the name of the panel and it will ping it. 
